@@ -18,21 +18,11 @@ This project is an advanced, fully functional **Retrieval-Augmented Generation (
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
 
-*(Replace the placeholder links below with your screenshots!)*
+To see the Intelligent RAG Document Assistant in action, including the terminal data ingestion process, the interactive Streamlit UI, and the strict zero-hallucination protocol, please view the project gallery below:
 
-### 1. Ingestion Success
-> *Take a screenshot of your terminal showing the successful output of `ingest.py` processing the documents and saving to ChromaDB.*  
-![Ingestion Terminal Screenshot](docs/ingestion.png)
-
-### 2. UI Dashboard & Memory
-> *Take a screenshot of the Streamlit interface showing a successful Q&A interaction and follow-up question.*  
-![UI Dashboard Screenshot](docs/dashboard.png)
-
-### 3. Strict Response Protocol
-> *Take a screenshot showing the chatbot correctly refusing to answer an off-topic question (e.g. "What is the capital of France?").*  
-![Strict Response Screenshot](docs/strict-protocol.png)
+[**🔗 View Project Screenshots (Google Docs)**](https://docs.google.com/document/d/1UGcxFVI9emYG7cnDOYn6vzo1pB2y3x9w33EH-Tbly8M/edit?usp=sharing)
 
 ---
 
